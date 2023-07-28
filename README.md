@@ -1,6 +1,9 @@
 ## Custom
 
+Forked from [freakydude/Marlin](https://github.com/freakydude/Marlin)
+
 - moved pin from fan0 to fan2
+- turn off AUTO_REPORT_SD_STATUS
 
 Artillery ruby 1.2 motherboard pins image
 ![artillery-ruby-1.2-motherboard](docs/artillery-ruby-1-2-motherboard-pinout-v0-h87re4wrbrd91.png "artillery-ruby-1.2-motherboard")
