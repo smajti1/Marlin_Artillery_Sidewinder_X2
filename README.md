@@ -1,3 +1,12 @@
+## Custom
+
+- moved pin from fan0 to fan2
+
+Artillery ruby 1.2 motherboard pins image
+![artillery-ruby-1.2-motherboard](docs/artillery-ruby-1-2-motherboard-pinout-v0-h87re4wrbrd91.png "artillery-ruby-1.2-motherboard")
+
+## Original
+
 <p align="center"><img src="buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" height="250" alt="MarlinFirmware's logo" /></p>
 
 <h1 align="center">Marlin 3D Printer Firmware</h1>
